@@ -1,0 +1,53 @@
+SXTWingSmall
+MODULE
+{
+name = FARWingAerodynamicModel
+MAC = 1.15
+MidChordSweep = 0
+b_2 = 2
+TaperRatio = 1
+}
+
+
+SXTWingSmallHalf
+MODULE:NEEDS[FerramAerospaceResearch]
+{
+name = FARWingAerodynamicModel
+MAC = 1.15
+MidChordSweep = 0
+b_2 = 1
+TaperRatio = 1
+}
+
+
+SXTWingTipRound
+MODULE
+{
+name = FARWingAerodynamicModel
+b_2 = 1
+MAC = 2.25
+TaperRatio = 0.35
+MidChordSweep = 0
+}
+
+
+SXTWingLarge
+MODULE
+{
+name = FARWingAerodynamicModel
+MAC = 3.65
+MidChordSweep = 35.2
+b_2 = 8.52
+TaperRatio = 0.2373
+}
+
+
+SXTWingVeryLarge
+MODULE
+{
+name = FARWingAerodynamicModel
+MAC = 7.99375
+MidChordSweep = 21.25
+b_2 = 22.03125
+TaperRatio = 0.1419
+}
