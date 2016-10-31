@@ -1,0 +1,10 @@
+ChangeLog
+
+0.3.0-beta	Initial beta release for 1.2
+
+0.3.1-beta
+			Finished merging all fixes and removed old MM cfg files 
+			Got habitat ring working, animation is always on :-(
+			Fixed the Lancer Shock Cone animation
+
+
