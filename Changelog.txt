@@ -3,8 +3,21 @@ ChangeLog
 0.3.0-beta	Initial beta release for 1.2
 
 0.3.1-beta
-			Finished merging all fixes and removed old MM cfg files 
-			Got habitat ring working, animation is always on :-(
-			Fixed the Lancer Shock Cone animation
-
-
+		Finished merging all fixes and removed old MM cfg files 
+		Got habitat ring working, animation is always on :-(
+		Fixed the Lancer Shock Cone animation
+	Changes from PhineasFreak:
+		Fix model path for the nuclear RAM jet engine.
+		Fix the surface attachment node of the OX-HEX Photovoltaic Panel.
+		Fix the displayed names for the FL-S3 Petal Adapter.
+		Fix some texture paths.
+		Remove the 0.625m heat shield (now a stock part).
+		Fix the name of the 5m procedural fairing base.
+		Move the cargo bays, the payload fairing bases and the Mk3 ramp to the "Payload" category.
+		Move the antenna parts to the "Communication" category.
+		Remove a duplicate of the ModuleDataTransmitter module from the Communotron DTS-R4.
+		Move the crewed fuselage parts to the "Utility" category.
+		Move the Mk0 & Mk1 fuselages to the "FuelTank" category.
+		Move the landing airbags and wheels to the "Ground" category.
+		Add missing decoupler FX where applicable.
+		Move the N1 and Saturn V decouplers to the "Coupling" category.
