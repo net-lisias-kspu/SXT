@@ -4,7 +4,7 @@ ChangeLog
 
 0.3.1-beta
 		Finished merging all fixes and removed old MM cfg files 
-		Got habitat ring working, animation is always on :-(
+		Got habitat ring working, but needs modified version of Firespitter to work right now
 		Fixed the Lancer Shock Cone animation
 	Changes from PhineasFreak:
 		Fix model path for the nuclear RAM jet engine.
