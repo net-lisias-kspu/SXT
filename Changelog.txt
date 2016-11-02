@@ -19,5 +19,10 @@ ChangeLog
 		Move the crewed fuselage parts to the "Utility" category.
 		Move the Mk0 & Mk1 fuselages to the "FuelTank" category.
 		Move the landing airbags and wheels to the "Ground" category.
-		Add missing decoupler FX where applicable.
+		Add missing decoupler FX where applicable
 		Move the N1 and Saturn V decouplers to the "Coupling" category.
+
+0.3.2-beta
+		Added back deleted animation from the DST-R4
+		Moved SXTInlineAirIntakeTiny to deprecriated parts folder, it's a
+			duplicate of the stock intake
