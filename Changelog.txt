@@ -24,5 +24,7 @@ ChangeLog
 
 0.3.2-beta
 		Added back deleted animation from the DST-R4
-		Moved SXTInlineAirIntakeTiny to deprecriated parts folder, it's a
-			duplicate of the stock intake
+		Moved SXTInlineAirIntakeTiny to deprecriated parts folder, 
+		  it's a duplicate of the stock intake
+		Fix some texture reference paths
+
