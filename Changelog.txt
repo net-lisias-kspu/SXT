@@ -29,3 +29,8 @@ ChangeLog
 		Fix some texture reference paths
 0.3.3
 		Removes duplicated tech tree fields
+
+0.3.4
+		Removed unnecessary and duplicated patch files, thanks @BureauJaeger
+		Fixed typo in SXT/Patches/ModCompatibility/CCT/SXT-CCT.cfg, thanks
+		@CaribeanSoul

@@ -33,7 +33,7 @@ copy ..\MiniAVC.dll Gamedata\SXTContinued
 copy README.md Gamedata\SXTContinued
 
 
-set FILE="%RELEASEDIR%\SXTContinued-%VERSION%-beta.zip"
+set FILE="%RELEASEDIR%\SXTContinued-%VERSION%.zip"
 IF EXIST %FILE% del /F %FILE%
 %ZIP% a -tzip %FILE% GameData DepreciatedParts
 del GameData\SXT\SXTContinued.version
