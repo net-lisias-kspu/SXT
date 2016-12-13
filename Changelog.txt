@@ -34,3 +34,7 @@ ChangeLog
 		Removed unnecessary and duplicated patch files, thanks @BureauJaeger
 		Fixed typo in SXT/Patches/ModCompatibility/CCT/SXT-CCT.cfg, thanks
 		@CaribeanSoul
+
+0.3.5
+		Removed old file:  
+			GameData/SXT/Patches/ModCompatibility/WIP/KIS/SXT_KIS.cfg
