@@ -38,3 +38,6 @@ ChangeLog
 0.3.5
 		Removed old file:  
 			GameData/SXT/Patches/ModCompatibility/WIP/KIS/SXT_KIS.cfg
+
+0.3.6
+		Fixed nodes in truck
