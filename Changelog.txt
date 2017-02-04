@@ -41,3 +41,6 @@ ChangeLog
 
 0.3.6
 		Fixed nodes in truck
+
+0.3.6
+		Added Experimental Rocketry node to tech tree
