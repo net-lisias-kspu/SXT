@@ -44,3 +44,9 @@ ChangeLog
 
 0.3.6
 		Added Experimental Rocketry node to tech tree
+
+0.3.7
+		Added Experimental Rocketry to tech tree
+0.3.8
+		Adjust DTS-R4 and Komm-16 to match stock, thanks @WuphonsReach
+		Moved all truck parts to general engineering 101
