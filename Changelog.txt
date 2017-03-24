@@ -50,3 +50,10 @@ ChangeLog
 0.3.8
 		Adjust DTS-R4 and Komm-16 to match stock, thanks @WuphonsReach
 		Moved all truck parts to general engineering 101
+
+0.3.9
+		Thanks to @RealKolago for the following:
+			Update part10degree.cfg
+			Update part225degree.cfg
+		Thanks to @eberkain for the following:
+			added oscar-c fuel tank to tweakscale
