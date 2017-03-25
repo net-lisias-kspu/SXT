@@ -57,3 +57,6 @@ ChangeLog
 			Update part225degree.cfg
 		Thanks to @eberkain for the following:
 			added oscar-c fuel tank to tweakscale
+
+0.3.9.1
+		Adjust TT06-A launch clamp pivot point
