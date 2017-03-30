@@ -60,3 +60,8 @@ ChangeLog
 
 0.3.9.1
 		Adjust TT06-A launch clamp pivot point
+
+0.3.10
+	Thanks to @EberKain 
+	updated Tweakscale cfg so it now covers all the parts
+
