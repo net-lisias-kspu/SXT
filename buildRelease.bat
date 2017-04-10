@@ -48,8 +48,8 @@ rmdir /s /q %HOMEDIR%\install\Gamedata\SXTContinued
 
 mkdir %HOMEDIR%\install\Gamedata\SXTContinued
 
-copy ..\MiniAVC.dll Gamedata\SXTContinued
-copy README.md Gamedata\SXTContinued
+copy ..\MiniAVC.dll Gamedata\SXT
+copy README.md GameData\SXT
 
 
 set FILE="%RELEASEDIR%\SXTContinued-%VERSION%.zip"
