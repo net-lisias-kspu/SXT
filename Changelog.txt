@@ -70,3 +70,7 @@ ChangeLog
 	Updae Clyde internals with fixed textures, converted remaining png to dds,
 	thanks to @Drew Kerman
 
+0.3.11.1
+	Updated patch for tweakscale, setting defaultScale to 1.25 where it is 
+	currently set = 1 for those patches where type = surface
+
