@@ -74,3 +74,8 @@ ChangeLog
 	Updated patch for tweakscale, setting defaultScale to 1.25 where it is 
 	currently set = 1 for those patches where type = surface
 
+0.3.12
+	Added USI-LS compat, thanks @voicey99
+		Adds Habitation values to the cabin modules and turns the non-tank
+		service modules into recyclers (inc. the MIA SM250).
+
