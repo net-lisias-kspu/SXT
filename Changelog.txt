@@ -85,3 +85,5 @@ ChangeLog
 		Guidelines. Also added a cfg for the centrifuge hab, with a little 
 		extra included for those who use MKS.
 
+0.3.13
+	Updated for 1.3
