@@ -87,3 +87,4 @@ ChangeLog
 
 0.3.13
 	Updated for 1.3
+	Replaced missing model for the Clyde
