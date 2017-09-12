@@ -1,0 +1,25 @@
+//Remove 0Resource.cfg from NuclearRamJet folder
+
+RESOURCE_DEFINITION
+{
+  name = NuclearRamJetIntake
+  density = 0.005
+  unitCost = 0
+  hsp = 10
+  flowMode = ALL_VESSEL
+  transfer = PUMP
+  isTweakable = false
+}
+
+@PART[*]:HAS[@MODULE[ModuleResourceIntake],@RESOURCE[IntakeAir]]
+{
+	+MODULE[ModuleResourceIntake]
+  {
+  	@resourceName = NuclearRamJetIntake
+  	@checkForOxygen = true // false
+	}
+	+RESOURCE[IntakeAir]
+  {
+  	@name = NuclearRamJetIntake
+	}
+}
