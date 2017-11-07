@@ -25,7 +25,7 @@
 
 
 # 3:SOURCEFILE, DESTDIR
-3:SXTContinued.version,GameData/SXTContinued
+3:SXTContinued.version,GameData/SXT
 
 # 5:ModuleManager
 5:ModuleManager
