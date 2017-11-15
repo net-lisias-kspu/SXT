@@ -105,3 +105,16 @@ ChangeLog
 	Add the passenger cabins to CLS patch.
 	Fix duplicate pass specifiers
 	
+0.3.18
+	Thanks to @voicey99 for these:
+		Cut whitespace slightly
+		replaced spaces with proper tab spacing 
+		removed superfluous lines across all parts making the configs slightly smaller and easier to follow 
+		extended float curves for all engines that didn't have them already to beyond 1atm 
+			(sorry, Eve landers, as per #35 )
+		correcting a few descriptions (grammar, spelling, old references etc.) 
+		increasing the fuel capacity (and dry cost/mass to match) of the Oscar-C, since its fuel capacity was terrible for its size.
+
+	Thanks to @Kerbas-ad-astra for these:
+		Adding some tags to parts (so they can be found by their nicknames), fix a couple of typos, also adding CLS patches for parts yet unpatched.
+
