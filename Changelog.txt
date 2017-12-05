@@ -118,3 +118,5 @@ ChangeLog
 	Thanks to @Kerbas-ad-astra for these:
 		Adding some tags to parts (so they can be found by their nicknames), fix a couple of typos, also adding CLS patches for parts yet unpatched.
 
+0.3.19
+	Fixed FAR patch for compatibility with updated ModuleManager 3.0.0
