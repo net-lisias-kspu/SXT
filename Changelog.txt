@@ -136,3 +136,11 @@ ChangeLog
 		Patches/SquadPartTweaks/SXT_GenericTweaks.cfg
 		Patches/SquadPartTweaks/SXT_StartingTech.cfg
 	
+0.3.21
+	Nerva CoM offset
+	Wing CoM
+	Wing fuel & lift
+	2.5m LF tank volume
+	Update fuelTank.cfg
+		missing s at the end of bulkheadProfiles
+	
