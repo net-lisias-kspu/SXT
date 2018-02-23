@@ -144,3 +144,6 @@ ChangeLog
 	Update fuelTank.cfg
 		missing s at the end of bulkheadProfiles
 	
+0.3.22
+	Updated mass and lift for the wings to bring them more
+	in line with stock.
