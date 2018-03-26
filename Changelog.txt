@@ -151,3 +151,5 @@ ChangeLog
 0.3.23.1
 	Thanks to forum user @Munar Industries, the Buzzard is fixed
 	Updated for 1.4.1
+	Reorganized ModuleBounce
+	Updated build scripts & Jenkins
