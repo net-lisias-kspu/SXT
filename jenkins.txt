@@ -23,6 +23,8 @@
 # 1:GAMEDIR, VERSIONFILE [, GITHUBREPO ]
 1:SXT, SXTContinued.version
 
+# 2:PROJNAME, PROJFILE, VERSIONFILE, PLUGINSFOLDER
+2:ModuleBounce,ModuleBounce/KerbalHotSeat.csproj,SXTContinued.version,GameData/SXT/Plugins
 
 # 3:SOURCEFILE, DESTDIR
 3:SXTContinued.version,GameData/SXT

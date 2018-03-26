@@ -148,5 +148,6 @@ ChangeLog
 	Updated mass and lift for the wings to bring them more
 	in line with stock.
 
-0.3.23
+0.3.23.1
 	Thanks to forum user @Munar Industries, the Buzzard is fixed
+	Updated for 1.4.1

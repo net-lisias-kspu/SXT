@@ -1,0 +1,18 @@
+{
+	"NAME":"SXTContinued",
+	"URL":"http://ksp-avc.cybutek.net/version.php?id=378",
+	"VERSION":
+	{
+		"MAJOR":0,
+		"MINOR":3,
+		"PATCH":23,
+		"BUILD":1
+	},
+	"KSP_VERSION":
+	{
+		"MAJOR":1,
+		"MINOR":4,
+		"PATCH":1
+	}
+
+}
