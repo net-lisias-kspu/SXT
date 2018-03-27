@@ -153,3 +153,6 @@ ChangeLog
 	Updated for 1.4.1
 	Reorganized ModuleBounce
 	Updated build scripts & Jenkins
+
+0.3.23.3
+	Updated version file

@@ -1,12 +1,18 @@
 {
 	"NAME":"SXTContinued",
-	"URL":"http://ksp-avc.cybutek.net/version.php?id=378",
+	"URL":"https://raw.githubusercontent.com/linuxgurugamer/SXTContinued/master/SXTContinued.version",
+    "DOWNLOAD" : "https://github.com/linuxgurugamer/SXTContinued/releases",
+    "GITHUB" :
+    {
+        "USERNAME" : "linuxgurugamer",
+        "REPOSITORY" : "SXTContinued"
+    },
 	"VERSION":
 	{
 		"MAJOR":0,
 		"MINOR":3,
 		"PATCH":23,
-		"BUILD":2
+		"BUILD":3
 	},
 	"KSP_VERSION":
 	{
