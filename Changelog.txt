@@ -156,3 +156,9 @@ ChangeLog
 
 0.3.23.3
 	Updated version file
+
+0.3.23.4
+	Fixed build with dlls
+
+0.3.23.5
+	Changed name of MEMLander to MEMLanderSXT to avoid conflict with stock
