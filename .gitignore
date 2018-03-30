@@ -218,3 +218,8 @@ $RECYCLE.BIN/
 #
 *~
 *.swp
+.vs
+*.mdb
+*.dll
+!Firespitter.dll
+!RetractableLiftingSurface.dll

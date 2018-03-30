@@ -27,4 +27,138 @@ ChangeLog
 		Moved SXTInlineAirIntakeTiny to deprecriated parts folder, 
 		  it's a duplicate of the stock intake
 		Fix some texture reference paths
+0.3.3
+		Removes duplicated tech tree fields
 
+0.3.4
+		Removed unnecessary and duplicated patch files, thanks @BureauJaeger
+		Fixed typo in SXT/Patches/ModCompatibility/CCT/SXT-CCT.cfg, thanks
+		@CaribeanSoul
+
+0.3.5
+		Removed old file:  
+			GameData/SXT/Patches/ModCompatibility/WIP/KIS/SXT_KIS.cfg
+
+0.3.6
+		Fixed nodes in truck
+
+0.3.6
+		Added Experimental Rocketry node to tech tree
+
+0.3.7
+		Added Experimental Rocketry to tech tree
+0.3.8
+		Adjust DTS-R4 and Komm-16 to match stock, thanks @WuphonsReach
+		Moved all truck parts to general engineering 101
+
+0.3.9
+		Thanks to @RealKolago for the following:
+			Update part10degree.cfg
+			Update part225degree.cfg
+		Thanks to @eberkain for the following:
+			added oscar-c fuel tank to tweakscale
+
+0.3.9.1
+		Adjust TT06-A launch clamp pivot point
+
+0.3.10
+	Thanks to @EberKain 
+	updated Tweakscale cfg so it now covers all the parts
+
+0.3.11
+	Updated description of wheels
+	Updae Clyde internals with fixed textures, converted remaining png to dds,
+	thanks to @Drew Kerman
+
+0.3.11.1
+	Updated patch for tweakscale, setting defaultScale to 1.25 where it is 
+	currently set = 1 for those patches where type = surface
+
+0.3.12
+	Added USI-LS compat, thanks @voicey99
+		Adds Habitation values to the cabin modules and turns the non-tank
+		service modules into recyclers (inc. the MIA SM250).
+
+0.3.12.1
+	Updated USI-LS compat, thanks @voicey99
+	    Reworked the patch to bring it into line with the USI Balance 
+		Guidelines. Also added a cfg for the centrifuge hab, with a little 
+		extra included for those who use MKS.
+
+0.3.13
+	Updated for 1.3
+	Replaced missing model for the Clyde
+
+0.3.14
+	Recompiled ModuleBounce for 1.3
+	Added additional CLS compatibliity, thanks @LemonSkin
+	Fixed bad character in  Mystery goo description, thanks @LemonSkin
+
+0.3.15
+	Renamed texture file for goo (Squad changed the filename), thanks
+	@chimicanga
+
+0.3.16
+	Recompiled for 1.3.1
+
+0.3.17
+	Add the passenger cabins to CLS patch.
+	Fix duplicate pass specifiers
+	
+0.3.18
+	Thanks to @voicey99 for these:
+		Cut whitespace slightly
+		replaced spaces with proper tab spacing 
+		removed superfluous lines across all parts making the configs slightly smaller and easier to follow 
+		extended float curves for all engines that didn't have them already to beyond 1atm 
+			(sorry, Eve landers, as per #35 )
+		correcting a few descriptions (grammar, spelling, old references etc.) 
+		increasing the fuel capacity (and dry cost/mass to match) of the Oscar-C, since its fuel capacity was terrible for its size.
+
+	Thanks to @Kerbas-ad-astra for these:
+		Adding some tags to parts (so they can be found by their nicknames), fix a couple of typos, also adding CLS patches for parts yet unpatched.
+
+0.3.19
+	Fixed FAR patch for compatibility with updated ModuleManager 3.0.0
+
+0.3.20
+	Fixed following patches for updated ModuleManager 3.0.*
+		Patches/ModCompatibility/CLS/CLS_Aviation.cfg
+		Patches/ModCompatibility/RemoteTech/RemoteTech_Probes.cfg
+		Patches/ModCompatibility/RPM/Window.cfg
+		Patches/ModCompatibility/SXT_BDArmoury.cfg
+		Patches/ModCompatibility/SXT_Firespitter.cfg
+		Patches/ModCompatibility/SXT_KIS.cfg
+		Patches/ModCompatibility/SXT_KSPI.cfg
+		Patches/ModCompatibility/WIP/RealPlume/NuclearRamJet.cfg
+		Patches/SquadPartTweaks/Engines/Ion/IonFairing.cfg
+		Patches/SquadPartTweaks/StayputnikRX.cfg
+		Patches/SquadPartTweaks/SXT_GenericTweaks.cfg
+		Patches/SquadPartTweaks/SXT_StartingTech.cfg
+	
+0.3.21
+	Nerva CoM offset
+	Wing CoM
+	Wing fuel & lift
+	2.5m LF tank volume
+	Update fuelTank.cfg
+		missing s at the end of bulkheadProfiles
+	
+0.3.22
+	Updated mass and lift for the wings to bring them more
+	in line with stock.
+
+0.3.23.1
+	Thanks to forum user @Munar Industries, the Buzzard is fixed
+	Updated for 1.4.1
+	Reorganized ModuleBounce
+	Updated build scripts & Jenkins
+
+0.3.23.3
+	Updated version file
+
+0.3.23.4
+	Fixed build with dlls
+
+0.3.23.5
+	Changed name of MEMLander to MEMLanderSXT to avoid conflict with stock
