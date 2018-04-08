@@ -162,3 +162,8 @@ ChangeLog
 
 0.3.23.5
 	Changed name of MEMLander to MEMLanderSXT to avoid conflict with stock
+
+0.3.23.6
+	Made the OX-HEX invulnerable to aero damage
+	Localization and German translation by @LeLeon
+	Updated .version file to allow all of 1.4.1+
