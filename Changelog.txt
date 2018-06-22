@@ -167,3 +167,18 @@ ChangeLog
 	Made the OX-HEX invulnerable to aero damage
 	Localization and German translation by @LeLeon
 	Updated .version file to allow all of 1.4.1+
+
+0.3.23.7
+	Thanks to github user @schnobs for this:
+		Custom Drag Cube for SXTCargoBay1 (2.5m Cargo Bay)
+
+	    The game sees the cargo bay as a hollow tube, giving it very
+		little surface area. Drag-wise it does not line up with other
+		2.5m parts, both leading and trailing 2.5m items have much
+		higher drag than one would guess from looking at the vessel.
+		The effect is comparable to inserting a modular girder or 
+		I-beam into a 2.5m stack.
+
+ 	   This patch fixes the issue by giving the closed cargo bay the 
+	   surface area of a (similar-sized) Rockomax-16 tank.
+	
