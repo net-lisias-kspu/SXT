@@ -1,5 +1,8 @@
 SXT - Stock eXTension :: Change Log
 
+* 2016-1113: 0.3.3 (linuxgurugamer) for KSP 1.2
+	+ No more beta
+	+ Removed duplicated tech tree nodes
 * 2016-1104: 0.3.2-beta (linuxgurugamer) for KSP 1.2 PRE-RELEASE
 	+ No changelog provided
 * 2016-1105: 0.3.2.1-beta (linuxgurugamer) for KSP 1.2 PRE-RELEASE
