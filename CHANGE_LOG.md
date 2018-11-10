@@ -1,5 +1,10 @@
 SXT - Stock eXTension :: Change Log
 
+* 2015-0906: 22.1 (Signatum) for KSP 1.0
+	+ New props, new blur for props, many tweaks to existing ones.
+	+ New 1.25m cockpit 'Clyde', new model for Bonny.
+	+ Sea-plane floats and fixes for existing inflatable balloons.
+	+ FAR tweaks and fixes.
 * 2015-0804: 21 (Signatum) for KSP 1.0
 	+ Engines balanced to KSP 1.0+ values+attributes and given nick-names
 	+ New prop engines (Powerful turboprop (NK-12M) and radial engine PW R-2800).
