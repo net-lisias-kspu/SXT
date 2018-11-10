@@ -1,5 +1,8 @@
 SXT - Stock eXTension :: Change Log
 
+* 2016-1213: 0.3.4 (linuxgurugamer) for KSP 1.2
+	+ Removed unnecessary and duplicated patch files, thanks @BureauJaeger
+	+ Fixed typo in SXT/Patches/ModCompatibility/CCT/SXT-CCT.cfg, thanks @CaribeanSoul
 * 2016-1113: 0.3.3 (linuxgurugamer) for KSP 1.2
 	+ No more beta
 	+ Removed duplicated tech tree nodes
