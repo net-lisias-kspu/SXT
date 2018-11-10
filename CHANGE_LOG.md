@@ -1,5 +1,11 @@
 SXT - Stock eXTension :: Change Log
 
+* 2015-1202: 23.2 (Signatum) for KSP 1.0
+	+ Added 3.75m Docking Ring.
+	+ Fixed Size 2 Cargo Bay nodes.
+	+ Tweaks to part temperatures. Adding Skin/Int temps to some of the crew caps.
+	+ Fixed Mk0 Barrel texture.
+	+ Filled in a few missing part descriptions.
 * 2015-1111: 23.1 (Signatum) for KSP 1.0
 	+ Added Electronic Fan (based off Airbus e-Fan).
 	+ Added Small folding wing.
