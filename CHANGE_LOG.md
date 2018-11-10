@@ -1,5 +1,7 @@
 SXT - Stock eXTension :: Change Log
 
+* 2018-0327: 0.3.23.3 (linuxgurugamer) for KSP 1.4.1
+	+ Updated version file
 * 2018-0326: 0.3.23.2 (linuxgurugamer) for KSP 1.4.1
 	+ Thanks to forum user @Munar Industries, the Buzzard is fixed
 	+ Updated for 1.4.1
