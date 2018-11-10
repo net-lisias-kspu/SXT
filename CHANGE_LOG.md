@@ -1,5 +1,8 @@
 SXT - Stock eXTension :: Change Log
 
+* 2017-0410: 0.3.11 (linuxgurugamer) for KSP 1.2
+	+ Updated description of wheels
+	+ Update Clyde internals with fixed textures, converted remaining png to dds, thanks to @Drew Kerman
 * 2017-0330: 0.3.10 (linuxgurugamer) for KSP 1.2
 	+ New rellease thanks to @EberKain
 * 2017-0325: 0.3.9.1 (linuxgurugamer) for KSP 1.2
