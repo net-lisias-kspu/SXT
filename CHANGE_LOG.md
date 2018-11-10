@@ -1,5 +1,7 @@
 SXT - Stock eXTension :: Change Log
 
+* 2017-0330: 0.3.10 (linuxgurugamer) for KSP 1.2
+	+ New rellease thanks to @EberKain
 * 2017-0325: 0.3.9.1 (linuxgurugamer) for KSP 1.2
 	+ Adjust TT06-A launch clamp pivot point
 * 2017-0324: 0.3.9 (linuxgurugamer) for KSP 1.2
