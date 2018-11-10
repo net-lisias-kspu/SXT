@@ -1,5 +1,10 @@
 SXT - Stock eXTension :: Change Log
 
+* 2017-0514: 0.3.12.1 (linuxgurugamer) for KSP 1.2
+	+ Updated USI-LS compat, thanks @voicey99
+		- Reworked the patch to bring it into line with the USI Balance
+			- Guidelines. Also added a cfg for the centrifuge hab, with a little
+			- extra included for those who use MKS.
 * 2017-0504: 0.3.12 (linuxgurugamer) for KSP 1.2
 	+ Added USI-LS compat, thanks @voicey99
 			- Adds Habitation values to the cabin modules and turns the non-tank
