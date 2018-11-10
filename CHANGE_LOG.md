@@ -1,5 +1,6 @@
 SXT - Stock eXTension :: Change Log
 
+* 2017-1115: 0.3.18 (linuxgurugamer) for KSP 1.3.1
 * 2017-1107: 0.3.17 (linuxgurugamer) for KSP 1.3.1
 * 2017-1109: 0.3.17.-1 (linuxgurugamer) for KSP 1.3.1 PRE-RELEASE
 	+ Cut whitespace slightly, replaced spaces with proper tab spacing and removed superfluous lines across all parts making the configs slightly smaller and easier to follow (unless it's converted into some godawful horizontal format).
