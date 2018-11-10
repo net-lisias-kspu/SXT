@@ -1,5 +1,12 @@
 SXT - Stock eXTension :: Change Log
 
+* 2018-0215: 0.3.21 (linuxgurugamer) for KSP 1.3.1
+	+ Nerva CoM offset
+	+ Wing CoM
+	+ Wing fuel & lift
+	+ 2.5m LF tank volume
+	+ Update fuelTank.cfg
+		- missing s at the end of bulkheadProfiles
 * 2017-1211: 0.3.20 (linuxgurugamer) for KSP 1.3.1
 	+ Fixed following patches for updated ModuleManager 3.0.*
 		- Patches/ModCompatibility/CLS/CLS_Aviation.cfg
