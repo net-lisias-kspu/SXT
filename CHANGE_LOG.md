@@ -1,5 +1,19 @@
 SXT - Stock eXTension :: Change Log
 
+* 2017-1211: 0.3.20 (linuxgurugamer) for KSP 1.3.1
+	+ Fixed following patches for updated ModuleManager 3.0.*
+		- Patches/ModCompatibility/CLS/CLS_Aviation.cfg
+		- Patches/ModCompatibility/RemoteTech/RemoteTech_Probes.cfg
+		- Patches/ModCompatibility/RPM/Window.cfg
+		- Patches/ModCompatibility/SXT_BDArmoury.cfg
+		- Patches/ModCompatibility/SXT_Firespitter.cfg
+		- Patches/ModCompatibility/SXT_KIS.cfg
+		- Patches/ModCompatibility/SXT_KSPI.cfg
+		- Patches/ModCompatibility/WIP/RealPlume/NuclearRamJet.cfg
+		- Patches/SquadPartTweaks/Engines/Ion/IonFairing.cfg
+		- Patches/SquadPartTweaks/StayputnikRX.cfg
+		- Patches/SquadPartTweaks/SXT_GenericTweaks.cfg
+		- Patches/SquadPartTweaks/SXT_StartingTech.cfg
 * 2017-1205: 0.3.19 (linuxgurugamer) for KSP 1.3.1
 	+ Updated FAR patch for compatibility with updated ModuleManager 3.0.0
 * 2017-1115: 0.3.18 (linuxgurugamer) for KSP 1.3.1
