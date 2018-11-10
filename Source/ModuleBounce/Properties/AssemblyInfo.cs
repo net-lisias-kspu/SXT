@@ -33,5 +33,3 @@ using System.Runtime.InteropServices;
 // by using the '*' as shown below:
 [assembly: AssemblyVersion(SXT.Version.Number)]
 [assembly: AssemblyFileVersion(SXT.Version.Number)]
-
-[assembly: KSPAssemblyDependency("KSPe", 2, 0)]
