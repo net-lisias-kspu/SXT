@@ -1,5 +1,8 @@
 SXT - Stock eXTension :: Change Log
 
+* 2017-1109: 0.3.17.-1 (linuxgurugamer) for KSP 1.3.1 PRE-RELEASE
+	+ Cut whitespace slightly, replaced spaces with proper tab spacing and removed superfluous lines across all parts making the configs slightly smaller and easier to follow (unless it's converted into some godawful horizontal format).
+	+ Some of the more relevant changes include extending float curves for all engines that didn't have them already to beyond 1atm (sorry, Eve landers, as per #35 ), correcting a few descriptions (grammar, spelling, old references etc.) and increasing the fuel capacity (and dry cost/mass to match) of the Oscar-C, since its fuel capacity was terrible for its size.
 * 2017-1011: 0.3.16 (linuxgurugamer) for KSP 1.3.1
 	+ No changelog provided
 * 2017-0616: 0.3.14 (linuxgurugamer) for KSP 1.3
