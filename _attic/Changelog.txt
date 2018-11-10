@@ -182,3 +182,9 @@ ChangeLog
  	   This patch fixes the issue by giving the closed cargo bay the 
 	   surface area of a (similar-sized) Rockomax-16 tank.
 	
+0.3.24 (unreleased)
+	Fixed Meadowlark for 1.5.1
+	Disabled the science experiment and container in Meadowlark
+	Thanks to @JadeOfMaar:  Updated the model for the Alouette probe
+	Added scripts to copy missing texture files
+	Updated parts which referenced missing texture files to use new location
