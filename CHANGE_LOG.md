@@ -1,5 +1,8 @@
 SXT - Stock eXTension :: Change Log
 
+* 2016-0410: 25.2 (Signatum) for KSP 1.0
+	+ Updated inbuilt Firespitter module and MM to official 1.1 release compatible versions.. Though that mightn't work via CKAN.
+	+ There's still a number of issues, hatches aren't behaving properly and the truck wheels are broken for now. These will be fixed in next series of patches. As will things like the IVA overlay.
 * 2015-1210: 24 (Signatum) for KSP 1.0
 	+ Major:
 	+ Overhauled Osual parts. Textures now match Porkjet's style better and fixed the collsion meshes for the parts.
