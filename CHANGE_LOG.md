@@ -1,5 +1,9 @@
 SXT - Stock eXTension :: Change Log
 
+* 2018-0408: 0.3.23.6 (linuxgurugamer) for KSP 1.4.1
+	+ Made the OX-HEX invulnerable to aero damage
+	+ Localization and German translation by @LeLeon
+	+ Updated .version file to allow all of 1.4.1+
 * 2018-0328: 0.3.23.5 (linuxgurugamer) for KSP 1.4.1
 	+ Changed name of MEMLander to MEMLanderSXT to avoid conflict with stock
 * 2018-0327: 0.3.23.4 (linuxgurugamer) for KSP 1.4.1
