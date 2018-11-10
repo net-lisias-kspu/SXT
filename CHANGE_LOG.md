@@ -1,5 +1,9 @@
 SXT - Stock eXTension :: Change Log
 
+* 2017-0504: 0.3.12 (linuxgurugamer) for KSP 1.2
+	+ Added USI-LS compat, thanks @voicey99
+			- Adds Habitation values to the cabin modules and turns the non-tank
+			- service modules into recyclers (inc. the MIA SM250).
 * 2017-0410: 0.3.11.1 (linuxgurugamer) for KSP 1.2
 	+ Updated patch for tweakscale, setting defaultScale = 1.25 where it is
 		- currently set = 1 for those patches where type = surface
