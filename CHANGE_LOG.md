@@ -1,5 +1,7 @@
 SXT - Stock eXTension :: Change Log
 
+* 2016-1105: 0.3.2.1-beta (linuxgurugamer) for KSP 1.2 PRE-RELEASE
+	+ Recompiled Firespitter for 1.2.1
 * 2016-1101: 0.3.1-beta (linuxgurugamer) for KSP 1.2 PRE-RELEASE
 ```
     Finished merging all fixes and removed old MM cfg files 
