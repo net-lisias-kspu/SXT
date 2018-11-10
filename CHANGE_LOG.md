@@ -1,5 +1,9 @@
 SXT - Stock eXTension :: Change Log
 
+* 2015-0911: 22.3 (Signatum) for KSP 1.0
+	+ Adding and updating part descriptions
+	+ Fix to Clyde's attachment node
+	+ Tweaks and fixes to cargo bays and inflatable crash pads.
 * 2015-0906: 22.1 (Signatum) for KSP 1.0
 	+ New props, new blur for props, many tweaks to existing ones.
 	+ New 1.25m cockpit 'Clyde', new model for Bonny.
