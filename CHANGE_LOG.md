@@ -1,5 +1,8 @@
 SXT - Stock eXTension :: Change Log
 
+* 2017-0529: 0.3.13 (linuxgurugamer) for KSP 1.3
+	+ Updated for 1.3
+	+ Replaced missing model for the Clyde
 * 2017-0514: 0.3.12.1 (linuxgurugamer) for KSP 1.2
 	+ Updated USI-LS compat, thanks @voicey99
 		- Reworked the patch to bring it into line with the USI Balance
