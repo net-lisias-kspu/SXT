@@ -1,5 +1,8 @@
 SXT - Stock eXTension :: Change Log
 
+* 2018-0223: 0.3.22 (linuxgurugamer) for KSP 1.3.1
+	+ Updated mass and lift for the wings to bring them more
+		- in line with stock
 * 2018-0215: 0.3.21 (linuxgurugamer) for KSP 1.3.1
 	+ Nerva CoM offset
 	+ Wing CoM
