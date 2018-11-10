@@ -1,5 +1,9 @@
 SXT - Stock eXTension :: Change Log
 
+* 2015-0804: 21 (Signatum) for KSP 1.0
+	+ Engines balanced to KSP 1.0+ values+attributes and given nick-names
+	+ New prop engines (Powerful turboprop (NK-12M) and radial engine PW R-2800).
+	+ Existing prop engine's efficiency balanced to match real-world fuel consumption (roughly, based off provided values of fuel consumption, converted into kg using gasoline's density and then into Liquid Fuel units) and fuel requirements at maximum throttle per hour flight listed in description
 * 2015-0727: 20.8 (Signatum) for KSP 1.0
 	+ Updating engine configs, add missing nicknams as well.
 	+ Cargobays (Kerbas-ad-astra)
