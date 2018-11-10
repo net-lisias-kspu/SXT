@@ -1,5 +1,7 @@
 SXT - Stock eXTension :: Change Log
 
+* 2017-1011: 0.3.16 (linuxgurugamer) for KSP 1.3.1
+	+ No changelog provided
 * 2017-0616: 0.3.14 (linuxgurugamer) for KSP 1.3
 	+ Recompiled ModuleBounce for 1.3
 	+ Added additional CLS compatibliity, thanks @LemonSkin
