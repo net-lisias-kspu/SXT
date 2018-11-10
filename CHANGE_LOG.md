@@ -1,5 +1,7 @@
 SXT - Stock eXTension :: Change Log
 
+* 2017-1205: 0.3.19 (linuxgurugamer) for KSP 1.3.1
+	+ Updated FAR patch for compatibility with updated ModuleManager 3.0.0
 * 2017-1115: 0.3.18 (linuxgurugamer) for KSP 1.3.1
 * 2017-1107: 0.3.17 (linuxgurugamer) for KSP 1.3.1
 * 2017-1109: 0.3.17.-1 (linuxgurugamer) for KSP 1.3.1 PRE-RELEASE
