@@ -1,5 +1,24 @@
 SXT - Stock eXTension :: Change Log
 
+* 2015-1111: 23.1 (Signatum) for KSP 1.0
+	+ Added Electronic Fan (based off Airbus e-Fan).
+	+ Added Small folding wing.
+	+ Added Jumo 213 style Prop engine (KO-213 "Wolf").
+	+ Added IVA for 5m Duna Hab and Clyde.
+	+ Added 'Off-set' and 'Long XB-70' style 2.5m to Mk2 adaptor.
+	+ Added 2.5m liquid-fuel tanks in similar style to Mk2/3 parts added.
+	+ New model and stat tweaks for SXT 0.625m jet engine.
+	+ Swapped configs/models for older parts that have been replaced with higher quality versions by Porkjet (e.g. 2.5m turbofan, Mk3 Ramp, Mk0 fuselage, Mk1 passenger cabin). Old craft using those parts should now replace them with the new stock equivalent.
+	+ R-2800 prop will now look better when prop switches to blur (no more horrid blade mounts).
+	+ Props will have altered stats/fuel requirements based on the presence or absence of FAR to account for different atmospheric properties (x1.8 static thrust without FAR).
+	+ NK-12M spin-up time altered to fit real-life start-up better.
+	+ NK-12M thrust curve altered. Should perform a bit closer to reality.
+	+ RPM support added for Kossak & Entente.
+	+ Edits to descriptions, crash-tolerances.
+	+ Tweaks to stock aero-parts surface attachment settings.
+	+ Fixes to stack node directions.
+	+ Changed some part names to fit part order in list better (grouping with similar stock parts).
+	+ Mystery Good can now satisfy satellite contracts (Kerbas-ad-astra).
 * 2015-0911: 22.3 (Signatum) for KSP 1.0
 	+ Adding and updating part descriptions
 	+ Fix to Clyde's attachment node
