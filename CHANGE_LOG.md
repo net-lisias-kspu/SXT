@@ -1,5 +1,7 @@
 SXT - Stock eXTension :: Change Log
 
+* 2018-0328: 0.3.23.1 (linuxgurugamer) for KSP 1.3.1
+	+ Reupload of last version for 1.3.1
 * 2018-0223: 0.3.22 (linuxgurugamer) for KSP 1.3.1
 	+ Updated mass and lift for the wings to bring them more
 		- in line with stock
