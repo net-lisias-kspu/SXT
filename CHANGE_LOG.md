@@ -1,5 +1,8 @@
 SXT - Stock eXTension :: Change Log
 
+* 2017-0410: 0.3.11.1 (linuxgurugamer) for KSP 1.2
+	+ Updated patch for tweakscale, setting defaultScale = 1.25 where it is
+		- currently set = 1 for those patches where type = surface
 * 2017-0410: 0.3.11 (linuxgurugamer) for KSP 1.2
 	+ Updated description of wheels
 	+ Update Clyde internals with fixed textures, converted remaining png to dds, thanks to @Drew Kerman
