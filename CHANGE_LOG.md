@@ -1,5 +1,8 @@
 SXT - Stock eXTension :: Change Log
 
+* 2017-0205: 0.3.7.1 (linuxgurugamer) for KSP 1.2
+	+ Deleted unnecessary directory
+		- Updated buildRelease.bat
 * 2017-0204: 0.3.7 (linuxgurugamer) for KSP 1.2
 	+ Added Experimental Rocketry to tech tree
 	+ **BINARY OMMITED DUE SIZE**
