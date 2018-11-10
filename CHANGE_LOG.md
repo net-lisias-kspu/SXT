@@ -1,5 +1,19 @@
 SXT - Stock eXTension :: Change Log
 
+* 2015-1210: 24 (Signatum) for KSP 1.0
+	+ Major:
+	+ Overhauled Osual parts. Textures now match Porkjet's style better and fixed the collsion meshes for the parts.
+	+ Added ability to tweak deployment state of both Osual cockpit and loading ramp.
+	+ Tweaked animation of ramp for more control over deployment state.
+	+ Added Mk3-3.75m hollow adaptor.
+	+ Added 3.75m Docking Port.
+	+ Added 5m fairings and heatshield (re-sizes of stock parts, parameters).
+	+ Minor:
+	+ Finished updating part names, descriptions and manufacturers.
+	+ Fixed nodes for 2.5m Cargo Bay.
+	+ Further minor cfg fixes (thanks to Aivoh for pointing them out) - Correct name for ModuleCrossFeed and tabbing out of competitive agent mentality.
+	+ Neatening up parts list. Deletion of defunct parts (old float cfgs).
+	+ Fixes to heat tolerance for some plane parts.
 * 2015-1202: 23.2 (Signatum) for KSP 1.0
 	+ Added 3.75m Docking Ring.
 	+ Fixed Size 2 Cargo Bay nodes.
