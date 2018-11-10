@@ -1,5 +1,11 @@
 SXT - Stock eXTension :: Change Log
 
+* 2017-0324: 0.3.9 (linuxgurugamer) for KSP 1.2
+	+ Thanks to @RealKolago for the following:
+		- Update part10degree.cfg
+		- Update part225degree.cfg
+	+ Thanks to @eberkain for the following:
+		- added oscar-c fuel tank to tweakscale
 * 2017-0226: 0.3.8 (linuxgurugamer) for KSP 1.2
 	+ Adjust DTS-R4 and Komm-16 to match stock, thanks @WuphonsReach
 	+ Moved all truck parts to general engineering 101
