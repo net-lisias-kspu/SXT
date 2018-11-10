@@ -1,5 +1,7 @@
 SXT - Stock eXTension :: Change Log
 
+* 2018-0622: 0.3.23.7 (linuxgurugamer) for KSP 1.4.1
+	+ Custom Drag Cube for SXTCargoBay1 (2.5m Cargo Bay)
 * 2018-0408: 0.3.23.6 (linuxgurugamer) for KSP 1.4.1
 	+ Made the OX-HEX invulnerable to aero damage
 	+ Localization and German translation by @LeLeon
