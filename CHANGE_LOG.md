@@ -1,5 +1,8 @@
 SXT - Stock eXTension :: Change Log
 
+* 2017-0226: 0.3.8 (linuxgurugamer) for KSP 1.2
+	+ Adjust DTS-R4 and Komm-16 to match stock, thanks @WuphonsReach
+	+ Moved all truck parts to general engineering 101
 * 2017-0205: 0.3.7.1 (linuxgurugamer) for KSP 1.2
 	+ Deleted unnecessary directory
 		- Updated buildRelease.bat
