@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace WorldCup2014
+namespace SXT
 {
     public class ModuleBounce : PartModule
     {
