@@ -1,5 +1,8 @@
 SXT - Stock eXTension :: Change Log
 
+* 2017-0204: 0.3.7 (linuxgurugamer) for KSP 1.2
+	+ Added Experimental Rocketry to tech tree
+	+ **BINARY OMMITED DUE SIZE**
 * 2017-0113: 0.3.6 (linuxgurugamer) for KSP 1.2
 	+ Fixed nodes in truck
 * 2016-1213: 0.3.5 (linuxgurugamer) for KSP 1.2
