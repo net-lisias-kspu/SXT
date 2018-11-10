@@ -1,5 +1,9 @@
 SXT - Stock eXTension :: Change Log
 
+* 2017-0616: 0.3.14 (linuxgurugamer) for KSP 1.3
+	+ Recompiled ModuleBounce for 1.3
+	+ Added additional CLS compatibliity, thanks @LemonSkin
+	+ Fixed bad character in  Mystery goo description, thanks @LemonSkin
 * 2017-0529: 0.3.13 (linuxgurugamer) for KSP 1.3
 	+ Updated for 1.3
 	+ Replaced missing model for the Clyde
