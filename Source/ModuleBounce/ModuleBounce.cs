@@ -9,7 +9,7 @@ namespace SXT
 
         public override void OnStart(PartModule.StartState state)
         {
-            //Debug.LogError("ModuleBounce OnStart", gameObject);
+            Log.dbg("ModuleBounce OnStart {0}", gameObject);
             //ModuleBounceCollider bounce = part.collider.GetComponent<ModuleBounceCollider>();
             ModuleBounceCollider bounce = gameObject.GetComponent<ModuleBounceCollider>();
 
@@ -20,7 +20,7 @@ namespace SXT
             bounce = gameObject.AddComponent<ModuleBounceCollider>();
             bounce.bounciness = bounciness;
             bounce.part = part;
-            //Debug.LogError("ModuleBounce " + part.collider.gameObject.name);
+            //Log.error("ModuleBounce {0}", part.collider.gameObject.name);
         }
     }
 
@@ -31,10 +31,10 @@ namespace SXT
 
         private Rigidbody _rigidbody;
 
-        /*void Start()
+        void Start()
         {
-            Debug.LogError("ModuleBounceCollider Start", gameObject);
-        }*/
+            Log.dbg("Start {0}", gameObject);
+        }
 
         Vector3 lastVel = Vector3.zero;
         void FixedUpdate()
@@ -46,7 +46,7 @@ namespace SXT
 
         private void OnCollisionEnter(Collision col)
         {
-            //Debug.Log("collision " + col.collider.gameObject.name);
+            Log.dbg("OnCollisionEnter {0}", col.collider.gameObject.name);
 
             //Mikes method
             /*float velocityMagnitude = col.relativeVelocity.magnitude;
@@ -73,8 +73,7 @@ namespace SXT
                 Part hitPart = col.collider.attachedRigidbody.GetComponent<Part>();
                 if (hitPart != null) //hit other vessel
                 {
-
-                    float m1 = part.mass;
+				    float m1 = part.mass;
                     float m2 = hitPart.mass;
 
                     Vector3 impulse = Vector3.zero;
@@ -87,12 +86,12 @@ namespace SXT
                     Vector3 impulse2 = impulse * impactSpeed * m1 * m2;
                     rigidbody.velocity = lastVel + (impulse2 / m1);
 
-                    Debug.Log("collision " + hitPart.partName + " | v1 " + lastVel + " | v2 " + hitPart.rigidbody.velocity + " | outVel " + rigidbody.velocity + " | impact " + impact + " | impulse " + impulse + " | impulse2 " + impulse2 + " | is " + impactSpeed);
+                    Log.dbg("collision {0} | v1 {1} | v2 {2} | outVel {3} | impact {4} | impulse {5} | impulse2 {6} | is {7}", hitPart.partName, lastVel, hitPart.rigidbody.velocity, rigidbody.velocity, impact, impulse, impulse2, impactSpeed);
                 }
             }
             else //assume planet or something big :p
             {
-                Debug.Log("collision " + col.collider.name);
+                Log.dbg("collision {0}", col.collider.name);
                 Vector3 normal = Vector3.zero;
                 foreach (ContactPoint c in col.contacts)
                     normal += c.normal;
@@ -104,7 +103,7 @@ namespace SXT
             }*/
 
             //a pure "deflection" method, works by simply using bounciness as a scalar on the deflected vector.
-            //Debug.Log("collision " + col.collider.name);
+            Log.dbg("collision {0}", col.collider.name);
             Vector3 normal = Vector3.zero;
             ContactPoint[] contacts = col.contacts;
 
