@@ -188,3 +188,4 @@ ChangeLog
 	Thanks to @JadeOfMaar:  Updated the model for the Alouette probe
 	Added scripts to copy missing texture files
 	Updated parts which referenced missing texture files to use new location
+	Fixed hatch and ladder colliders for the Buzzerd, thanks @Taniwha

@@ -1,62 +1,61 @@
-# Lack's Stock eXTensions (SXT) /L Unofficial
+# SXTContinued
+Lack's Stock eXTension 
 
-This is a revival of the SXT - Stock eXTension mod, originally published by Lack. Unofficial fork by Lisias.
+IMPORTANT - INSTALLATION INSTRUCTIONS
 
+Some of the parts (see below) use some Squad textures.  Unfortunately, in 1.5, some
+of the textures it uses have been moved into the zDeprecated directory, and are
+not directly accessible during loading.  This causes some textures to be missing.
 
-## In a Hurry
-
-* [Latest Release](https://github.com/net-lisias-kspu/SXT/releases)
-	+ [Binaries](https://github.com/net-lisias-kspu/SXT/tree/Archive)
-* [Source](https://github.com/net-lisias-kspu/SXT)
-* [Project's README](https://github.com/net-lisias-kspu/SXT/blob/master/README.md)
-* [Change Log](./CHANGE_LOG.md)
-* [TODO](./TODO.md) list
+To address this, I've provided a pair of scripts, one to be used on Windows and
+the other to be used on both Linux & OSX.  These only need to be run one time
 
 
-## Description
-
-Aimed to make a memory light 'Stock-a-like' expansion pack that relies solely using the MODEL{} to reference Squad's textures and get a lot of 'bang for buck'. Which means that the RAM usage is as low as you can get. 
-
-
-## Installation
-
-To install, place the GameData folder inside your Kerbal Space Program folder.
-
-**REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**.
-
-### Dependencies
-
-No dependencies are included on the pack.
-
-* Hard Dependencies
-	+ [KSP API Extensions/L](https://github.com/net-lisias-ksp/KSPAPIExtensions) 2.0 or later
-* Soft Dependencies
-	+ [Firespitter](https://github.com/net-lisias-kspu/Firespitter)
-	+ [Retractable Lifting Surface](https://github.com/net-lisias-kspu/RetractableLiftingSurface) 
-
-### Licensing
-This work is licensed under [CC NC-SA 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/). See [here](./LICENSE).
-
-* You are free to:
-	+ **Share** - copy and redistribute the material in any medium or format
-	+ **Adapt** - remix, transform, and build upon the material for any purpose, even commercially. This license is acceptable for Free Cultural Works.
-* Under the following terms:
-	+ **Attribution** - You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-	+ **NonCommercial** — You may not use the material for commercial purposes.
-	+ **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
-	+ **No additional restrictions** - You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
-
-The licensor cannot revoke these freedoms as long as you follow the license terms.
-
-Please note the copyrights and trademarks in [NOTICE](./NOTICE).
+Windows Instructions
+====================
+Open the SXT folder in Windows Explorer
+Double-click on the file Windows_CopyTextures.bat (note that on most systems,
+you won't see the .bat)
 
 
-## UPSTREAM
+Linux & OSX Desktop Instructions
+================================
+Open the SXT folder 
+Double-click on the file:  BashCopyTextures.sh
 
-* [LinuxGuruGamer](https://forum.kerbalspaceprogram.com/index.php?/profile/129964-linuxgurugamer/) CURRENT MAINTAINER
-	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/151129-141-sxt-continued/)
-	+ [SpaceDock](http://spacedock.info/mod/1030/SXTContinued)
-	+ [GitHub](https://github.com/linuxgurugamer/SXTContinued/releases)
-* [Lack](https://forum.kerbalspaceprogram.com/index.php?/profile/47978-lack/) ROOT
-	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/71992-11-sxt-lacks-stock-extension-sxt-25-10apr16-basic-11-compatibilty/)
-	+ [GitHub](https://github.com/Signatum/SXT/)
+
+Linux & OSX Terminal Instructions
+=================================
+Change to the GameData/SXT directory
+Type the following:
+	bash BashCopyTextures.sh
+	
+
+Affected Parts
+==============
+LV-T80 "Robin" Liquid Fuel Engine
+The hub and related pipes
+3.75m Stage 3 Tank
+
+
+http://forum.kerbalspaceprogram.com/index.php?/topic/151129-12-sxt-continued-beta/
+
+This is a revival of the SXT - Stock eXTension mod, originally published by @Lack
+
+Updated for 1.2.  The truck had some parts redone and works well, it includes the 
+Bounce dll from the WorldCup mod (for the airbags), and RetractableLiftingSurface, 
+which I wrote to support the folding wing.
+
+Given the size of this mod, I'm sure there will be some issues.  Please let me know about 
+them so that I can get them fixed.
+
+A great shout out to @Deimos Rast for doing a lot of the early legwork
+
+SXT - The Full Pack - Downloads
+
+Github link: https://github.com/linuxgurugamer/SXTContinued
+
+SXT-0.3.0
+
+http://spacedock.info/mod/1030/SXTContinued
+https://github.com/linuxgurugamer/SXTContinued/releases
