@@ -194,3 +194,8 @@ ChangeLog
 		
 0.3.24.1
 	Updated transforms in the Alouette probe, fixes the blind spots above and below
+	
+0.3.24.2
+	Thanks to @tjdeckard:
+		Updated part configs to reflect changes made to converters in USITools
+	Removed KSP_MaxVersion from version file
