@@ -1,5 +1,7 @@
 SXT - Stock eXTension :: Change Log
 
+* 2018-1118: 0.3.24.1 (linuxgurugamer) for KSP 1.5.1
+	+ Updated transforms in the Alouette probe, fixes the blind spots above and below
 * 2018-1116: 0.3.24 (linuxgurugamer) for KSP 1.5.1
 	+ Fixed Meadowlark for 1.5.1
 	+ Disabled the science experiment and container in Meadowlark
