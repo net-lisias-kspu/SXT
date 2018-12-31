@@ -1,5 +1,15 @@
 SXT - Stock eXTension :: Change Log
 
+* 2018-1116: 0.3.24 (linuxgurugamer) for KSP 1.5.1
+	+ Fixed Meadowlark for 1.5.1
+	+ Disabled the science experiment and container in Meadowlark
+	+ Thanks to @JadeOfMaar:
+		- Updated the model for the Alouette probe
+	+ Added scripts to copy missing texture files
+	+ Updated parts which referenced missing texture files to use new location
+	+ Thanks to @Taniwha for the following:
+		- Fixed hatch and ladder colliders for the Buzzerd
+for KSP 1.5.1
 * 2018-0622: 0.3.23.7 (linuxgurugamer) for KSP 1.4.1
 	+ Custom Drag Cube for SXTCargoBay1 (2.5m Cargo Bay)
 * 2018-0408: 0.3.23.6 (linuxgurugamer) for KSP 1.4.1
