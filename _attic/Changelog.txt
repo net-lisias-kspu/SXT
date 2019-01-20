@@ -199,3 +199,6 @@ ChangeLog
 	Thanks to @tjdeckard:
 		Updated part configs to reflect changes made to converters in USITools
 	Removed KSP_MaxVersion from version file
+
+0.3.25
+	Added bulkheadProfiles to all parts
