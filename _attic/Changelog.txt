@@ -202,3 +202,6 @@ ChangeLog
 
 0.3.25
 	Added bulkheadProfiles to all parts
+	
+0.3.25.1
+	Added a few more missing bulkheadProfiles lines
