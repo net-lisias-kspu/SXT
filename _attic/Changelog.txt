@@ -205,3 +205,6 @@ ChangeLog
 	
 0.3.25.1
 	Added a few more missing bulkheadProfiles lines
+    
+0.3.25.2
+    Added ReStockwhitelist file
