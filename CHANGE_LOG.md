@@ -1,5 +1,7 @@
 SXT - Stock eXTension :: Change Log
 
+* 2019-0307: 0.3.25.2 (linuxgurugamer) for KSP 1.6.1
+	+ Added ReStockwhitelist file
 * 2019-0122: 0.3.25.1 (linuxgurugamer) for KSP 1.6.1
 	+ No changelog provided
 * 2019-0120: 0.3.25 (linuxgurugamer) for KSP 1.6.1
