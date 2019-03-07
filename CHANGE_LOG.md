@@ -1,5 +1,7 @@
 SXT - Stock eXTension :: Change Log
 
+* 2019-0122: 0.3.25.1 (linuxgurugamer) for KSP 1.6.1
+	+ No changelog provided
 * 2019-0120: 0.3.25 (linuxgurugamer) for KSP 1.6.1
 	+ Added missing bulkheadProfiles
 * 2019-0109: 0.3.24.3 (linuxgurugamer) for KSP 1.6.0
