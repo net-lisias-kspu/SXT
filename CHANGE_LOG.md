@@ -1,5 +1,7 @@
 SXT - Stock eXTension :: Change Log
 
+* 2019-0109: 0.3.24.3 (linuxgurugamer) for KSP 1.6.0
+	+ No changelog provided
 * 2018-1208: 0.3.24.2 (linuxgurugamer) for KSP 1.5.1
 	+ Thanks to @tjdeckard:
 		- Updated part configs to reflect changes made to converters in USITools
