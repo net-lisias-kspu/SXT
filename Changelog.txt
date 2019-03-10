@@ -208,3 +208,11 @@ ChangeLog
     
 0.3.25.2
     Added ReStockwhitelist file
+    
+0.3.26
+    Fixed the monoprop engines:
+        O-10
+        O-40
+        RCSBoon
+        RCSRack
+        Vernier
