@@ -30,7 +30,7 @@
 3:SXTContinued.version,GameData/SXT
 
 # 5:ModuleManager
-5:ModuleManager
+#5:ModuleManager
 
 # 6:mod_id
 #6:1272
