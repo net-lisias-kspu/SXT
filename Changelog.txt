@@ -216,3 +216,9 @@ ChangeLog
         RCSBoon
         RCSRack
         Vernier
+
+0.3.27
+	Fixed the models for following engines:
+		J2Engine
+		K170
+		KickMotor
