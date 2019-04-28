@@ -222,3 +222,10 @@ ChangeLog
 		J2Engine
 		K170
 		KickMotor
+
+0.3.28
+	More fixes due to missing textures:
+		OX-MTV (All of them)
+		XC-MTV (All of them)
+		OX-32 Inflatable (Both frame and tank texture missing)
+		OX-32S Inflatable (Just frame texture missing)
