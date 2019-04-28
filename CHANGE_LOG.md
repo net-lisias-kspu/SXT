@@ -1,5 +1,11 @@
 SXT - Stock eXTension :: Change Log
 
+* 2019-0428: 0.3.28 (linuxgurugamer) for KSP 1.7.0
+	+ More fixes due to missing textures:
+		- OX-MTV (All of them)
+		- XC-MTV (All of them)
+		- OX-32 Inflatable (Both frame and tank texture missing)
+		- OX-32S Inflatable (Just frame texture missing
 * 2019-0419: 0.3.27 (linuxgurugamer) for KSP 1.7.0
 	+ Fixed the models for following engines:
 		- J2Engine
