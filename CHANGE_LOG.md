@@ -1,5 +1,10 @@
 SXT - Stock eXTension :: Change Log
 
+* 2019-0419: 0.3.27 (linuxgurugamer) for KSP 1.7.0
+	+ Fixed the models for following engines:
+		- J2Engine
+		- K170
+		- KickMotor
 * 2019-0310: 0.3.26 (linuxgurugamer) for KSP 1.6.1
 	+ Fixed the monoprop engines:
 		- O-10
