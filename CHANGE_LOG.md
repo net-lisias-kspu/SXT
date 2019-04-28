@@ -1,5 +1,12 @@
 SXT - Stock eXTension :: Change Log
 
+* 2019-0310: 0.3.26 (linuxgurugamer) for KSP 1.6.1
+	+ Fixed the monoprop engines:
+		- O-10
+		- O-40
+		- RCSBoon
+		- RCSRack
+		- Vernier
 * 2019-0307: 0.3.25.2 (linuxgurugamer) for KSP 1.6.1
 	+ Added ReStockwhitelist file
 * 2019-0122: 0.3.25.1 (linuxgurugamer) for KSP 1.6.1
