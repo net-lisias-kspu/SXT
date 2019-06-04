@@ -229,3 +229,6 @@ ChangeLog
 		XC-MTV (All of them)
 		OX-32 Inflatable (Both frame and tank texture missing)
 		OX-32S Inflatable (Just frame texture missing)
+
+0.3.28.1
+	Fixed patches to only modify the MEMLanderSXT
