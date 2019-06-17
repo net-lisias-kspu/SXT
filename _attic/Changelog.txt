@@ -232,3 +232,8 @@ ChangeLog
 
 0.3.28.1
 	Fixed patches to only modify the MEMLanderSXT
+
+0.3.28.2
+	Fixing TweakScale patches to prevent triggering the Fatal Alert 
+	from [#34](https://github.com/net-lisias-ksp/TweakScale/issues/34).
+	
