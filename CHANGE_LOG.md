@@ -1,5 +1,7 @@
 SXT - Stock eXTension :: Change Log
 
+* 2019-0618: 0.3.28.2 (linuxgurugamer) for KSP 1.7.2
+	+ Fixing TweakScale patches to prevent triggering the Fatal Alert from [#34](https://github.com/net-lisias-ksp/TweakScale/issues/34).
 * 2019-0604: 0.3.28.1 (linuxgurugamer) for KSP 1.7.1
 	+ Fixed patches to only modify the MEMLanderSXT
 * 2019-0428: 0.3.28 (linuxgurugamer) for KSP 1.7.0
