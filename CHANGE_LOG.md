@@ -1,5 +1,7 @@
 SXT - Stock eXTension :: Change Log
 
+* 2019-0604: 0.3.28.1 (linuxgurugamer) for KSP 1.7.1
+	+ Fixed patches to only modify the MEMLanderSXT
 * 2019-0428: 0.3.28 (linuxgurugamer) for KSP 1.7.0
 	+ More fixes due to missing textures:
 		- OX-MTV (All of them)
