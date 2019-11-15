@@ -42,7 +42,7 @@ namespace ModuleBounce
     {
         private const string MODNAME = "SXT";
         private const string FOLDERNAME = "SXT";
-        private const string EXPECTEDPATH = FOLDERNAME + "/PlugIns";
+        private const string EXPECTEDPATH = FOLDERNAME + "/Plugns";
 
         protected void Start()
         {
@@ -50,6 +50,8 @@ namespace ModuleBounce
             var assemblies = AssemblyLoader.loadedAssemblies.Where(a => a.assembly.GetName().Name == Assembly.GetExecutingAssembly().GetName().Name).Where(a => a.url != EXPECTEDPATH);
             if (assemblies.Any())
             {
+                var badPaths = assemblies.Select(a => a.path).Select(p => Uri.UnescapeDataString(new Uri(Path.GetFullPath(KSPUtil.ApplicationRootPath)).MakeRelativeUri(new Uri(p)).ToString().Replace('/', Path.DirectorySeparatorChar)));
+
                 PopupDialog.SpawnPopupDialog
                 (
                     new Vector2(0.5f, 0.5f),
