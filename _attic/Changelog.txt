@@ -242,3 +242,6 @@ ChangeLog
 	Updated AssemblyVersion.tt
 	Updated for KSP 1.8
 	Added INSTALL_LOC1  to .version file
+
+0.3.29.1
+	Fixed typo in InstallChecker
