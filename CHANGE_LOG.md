@@ -1,5 +1,7 @@
 SXT - Stock eXTension :: Change Log
 
+* 2019-1116: 0.3.29.1 (linuxgurugamer) for KSP 1.8.1
+	+ Fixed typo in InstallChecker
 * 2019-1115: 0.3.29 (linuxgurugamer) for KSP 1.8.1
 	+ Added InstallChecker
 	+ Updated AssemblyVersion.tt
