@@ -1,5 +1,10 @@
 SXT - Stock eXTension :: Change Log
 
+* 2019-1115: 0.3.29 (linuxgurugamer) for KSP 1.8.1
+	+ Added InstallChecker
+	+ Updated AssemblyVersion.tt
+	+ Updated for KSP 1.8
+	+ Added INSTALL_LOC1  to .version file
 * 2019-0618: 0.3.28.2 (linuxgurugamer) for KSP 1.7.2
 	+ Fixing TweakScale patches to prevent triggering the Fatal Alert from [#34](https://github.com/net-lisias-ksp/TweakScale/issues/34).
 * 2019-0604: 0.3.28.1 (linuxgurugamer) for KSP 1.7.1
