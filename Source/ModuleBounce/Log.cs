@@ -8,6 +8,22 @@ namespace SXT
 	{
 		private static readonly Logger LOG = Logger.CreateForType<ModuleBounce>();
 
+		internal static void init()
+		{
+			LOG.level =
+#if DEBUG
+				Level.TRACE
+#else
+                Level.INFO
+#endif
+				;
+		}
+
+		internal static void force(string msg, params object[] @params)
+		{
+			LOG.force(msg, @params);
+		}
+
 		internal static void error(string msg, params object[] @params)
 		{
 			LOG.error(msg, @params);

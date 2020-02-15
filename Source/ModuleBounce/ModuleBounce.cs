@@ -20,7 +20,7 @@ namespace SXT
             bounce = gameObject.AddComponent<ModuleBounceCollider>();
             bounce.bounciness = bounciness;
             bounce.part = part;
-            //Log.error("ModuleBounce {0}", part.collider.gameObject.name);
+            Log.dbg("ModuleBounce {0}", part.collider.gameObject.name);
         }
     }
 

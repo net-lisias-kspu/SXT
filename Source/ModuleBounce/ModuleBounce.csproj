@@ -36,6 +36,8 @@
     <Compile Include="Properties\Version.cs">
       <DependentUpon>Version.tt</DependentUpon>
     </Compile>
+    <Compile Include="Log.cs" />
+    <Compile Include="Startup.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -47,6 +49,12 @@
     </Reference>
     <Reference Include="UnityEngine.UI">
       <HintPath>..\..\..\..\..\..\LIB\managed\1.4.1\UnityEngine.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="KSPe">
+      <HintPath>..\..\..\..\..\..\LIB\plugins\KSPe.dll</HintPath>
+    </Reference>
+    <Reference Include="KSPe.UI">
+      <HintPath>..\..\..\..\..\..\LIB\plugins\KSPe.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
