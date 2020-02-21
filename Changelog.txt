@@ -245,3 +245,11 @@ ChangeLog
 
 0.3.29.1
 	Fixed typo in InstallChecker
+
+0.3.29.2
+	For 1.8, Added instructions for copying missing file to the same location in the new game:
+		KSP/GameData/Squad/Parts/FuelTank/Size3Tanks/fueltTanks_cm.dds
+	Thanks to @pap1723 for this
+		 Update SXTContinued.restockwhitelist
+	Thanks to @Lisais for this:
+		Fixing crew and IVA for the Osaul Radial Cockpit
