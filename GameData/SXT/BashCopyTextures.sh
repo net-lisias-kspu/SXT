@@ -38,6 +38,12 @@ cp ../../Squad/zDeprecated/Parts/FuelTank/fuelTankX200-32/model001.dds fuelTankX
 
 
 
-echo -e "/n/nThe files have been copied/n"
+echo -e "\n\nThe files have been copied/n"
 echo "Press return to continue"
 read yn
+
+echo -e "\n\nThere is a missing texture file which has to be copied from an earlier game"
+echo
+echo "Copy this file:"
+echo "     KSP/GameData/Squad/Parts/FuelTank/Size3Tanks/fueltTanks_cm.dds"
+echo "from the old game (pre 1.8) to the same location in the new game"
