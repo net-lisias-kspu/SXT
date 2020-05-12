@@ -256,3 +256,9 @@ ChangeLog
 
 0.3.29.3
 	Fixed truck attach nodes and orientation of all parts
+
+0.3.29.4
+    Reverted changes to truck parts
+    Fixed node  on truck beds
+    Fixed orientation of wheel boxes upon creation
+    Note:  Trucks are configured to be built in the SPH
