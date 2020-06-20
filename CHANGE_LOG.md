@@ -1,5 +1,12 @@
 SXT - Stock eXTension :: Change Log
 
+* 2020-0221: 0.3.29.2 (LinuxGuruGamer) for KSP 1.8.1
+	+ For 1.8, Added instructions for copying missing file to the same location in the new game:
+		- KSP/GameData/Squad/Parts/FuelTank/Size3Tanks/fueltTanks_cm.dds
+	+ Thanks to @pap1723 for this
+			- Update SXTContinued.restockwhitelist
+	+ Thanks to @Lisais for this:
+		- Fixing crew and IVA for the Osaul Radial Cockpit
 * 2019-1116: 0.3.29.1 (linuxgurugamer) for KSP 1.8.1
 	+ Fixed typo in InstallChecker
 * 2019-1115: 0.3.29 (linuxgurugamer) for KSP 1.8.1
