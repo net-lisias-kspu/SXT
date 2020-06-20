@@ -1,5 +1,7 @@
 SXT - Stock eXTension :: Change Log
 
+* 2020-0619: 0.3.29.5 (LinuxGuruGamer) for KSP 1.8.1
+	+ Updated ShuttleCockpit internal location based on suggestion from github user @ncanceil
 * 2020-0512: 0.3.29.4 (LinuxGuruGamer) for KSP 1.8.1
 	+ Reverted changes to truck parts
 	+ Fixed node  on truck beds
