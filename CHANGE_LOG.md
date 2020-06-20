@@ -1,5 +1,10 @@
 SXT - Stock eXTension :: Change Log
 
+* 2020-0512: 0.3.29.4 (LinuxGuruGamer) for KSP 1.8.1
+	+ Reverted changes to truck parts
+	+ Fixed node  on truck beds
+	+ Fixed orientation of wheel boxes upon creation
+	+ Note:  Trucks are configured to be built in the SPH
 * 2020-0511: 0.3.29.3 (LinuxGuruGamer) for KSP 1.8.1
 	+ Fixed truck attach nodes and orientation of all parts
 * 2020-0221: 0.3.29.2 (LinuxGuruGamer) for KSP 1.8.1
