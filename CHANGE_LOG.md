@@ -1,5 +1,7 @@
 SXT - Stock eXTension :: Change Log
 
+* 2020-0511: 0.3.29.3 (LinuxGuruGamer) for KSP 1.8.1
+	+ Fixed truck attach nodes and orientation of all parts
 * 2020-0221: 0.3.29.2 (LinuxGuruGamer) for KSP 1.8.1
 	+ For 1.8, Added instructions for copying missing file to the same location in the new game:
 		- KSP/GameData/Squad/Parts/FuelTank/Size3Tanks/fueltTanks_cm.dds
