@@ -1,5 +1,10 @@
 SXT - Stock eXTension :: Change Log
 
+* 2021-0803: 0.3.29.7 (LinuxGuruGamer) for KSP 1.12
+	+ Updated Firespitter dll
+	+ Renamed DLL for CKAN compatibility
+	+ Added AssemblyFileVersion
+	+ Updated version file for 1.12
 * 2021-0706: 0.3.29.6 (LinuxGuruGamer) for KSP 1.12
 	+ Updated for 1.12
 * 2020-0619: 0.3.29.5 (LinuxGuruGamer) for KSP 1.8.1
